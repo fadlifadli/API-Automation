@@ -19,10 +19,10 @@ Welcome to API Automation Reposity for kasirAja website.  This is an automated t
 - npm npm run html-report:api (to open html report)
 
 ## Evidence
-[Berikut link dokumentasi](https://drive.google.com/drive/folders/10i60NOr-0earb-sP8nKqeSPErpCFHmeS?usp=sharing)
+- [Berikut link dokumentasi](https://drive.google.com/drive/folders/10i60NOr-0earb-sP8nKqeSPErpCFHmeS?usp=sharing)
 
-[Capture Screenshoot](https://github.com/fadlifadli/API-Automation/blob/master/Dokumentasi/Capture.png)
-[Video](https://github.com/fadlifadli/API-Automation/blob/master/Dokumentasi/Video.MP4)
+- [Capture Screenshoot](https://github.com/fadlifadli/API-Automation/blob/master/Dokumentasi/Capture.png)
+- [Video](https://github.com/fadlifadli/API-Automation/blob/master/Dokumentasi/Video.MP4)
 
 
 ## API / Features
