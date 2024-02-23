@@ -1,0 +1,10 @@
+{
+    "success": {
+        "email": "tokotest@gmail.com",
+        "password": "tokotest123"
+    },
+    "failed": {
+        "email": "tokotest@gmail.com",
+        "password": "tokotest12345678"
+    }
+}

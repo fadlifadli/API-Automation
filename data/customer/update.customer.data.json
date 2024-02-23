@@ -1,0 +1,14 @@
+{
+    "success": {
+        "name": "Toko depan VIP",
+        "phone": "081222334455",
+        "address": "Jonggol",
+        "description": "Toko depan VIP"
+    },
+    "failed": {
+        "name": "",
+        "phone": "",
+        "address": "",
+        "description": ""
+    }
+}

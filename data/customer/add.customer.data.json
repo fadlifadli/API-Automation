@@ -1,0 +1,14 @@
+{
+    "success": {
+        "name": "Toko Depan",
+        "phone": "08122223344",
+        "address": "Bekasi",
+        "description": "Admin Toko"
+    },
+    "failed": {
+        "name": null,
+        "phone": null,
+        "address": null,
+        "description": null
+    }
+}

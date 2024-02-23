@@ -1,0 +1,24 @@
+{
+  "name": "api-automation",
+  "version": "1.0.0",
+  "description": "api automation test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/suite/customer.suite.js --reporter mochawesome",
+    "html-report:api": "start mochawesome-report/mochawesome.html"
+  },
+  "keywords": [
+    "api",
+    "automation"
+  ],
+  "author": "Fadhli",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "supertest": "^6.3.3"
+  },
+  "devDependencies": {
+    "mocha": "^10.3.0",
+    "mochawesome": "^7.1.3"
+  }
+}

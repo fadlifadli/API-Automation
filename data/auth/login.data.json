@@ -1,0 +1,10 @@
+{
+    "loginSuccess": {
+        "email": "Toko@Fadhli.com",
+        "password": "Aku*123"
+    },
+    "loginFailed": {
+        "email": "Toko@Fadhli.com",
+        "password": "Aku*12345678"
+    }
+}
