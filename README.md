@@ -21,6 +21,9 @@ Welcome to API Automation Reposity for kasirAja website.  This is an automated t
 ## Evidence
 [Berikut link dokumentasi](https://drive.google.com/drive/folders/10i60NOr-0earb-sP8nKqeSPErpCFHmeS?usp=sharing)
 
+52AC3DC5-1D25-4617-9F82-8D27BBA6F92B
+https://github.com/fadlifadli/API-Automation/blob/master/Dokumentasi/Video.MP4
+
 https://github.com/kettei/api-automation-sanbercode-47/assets/42662172/8ea21ec4-6b0d-4637-abe3-5a03fc116a4a
 
 
